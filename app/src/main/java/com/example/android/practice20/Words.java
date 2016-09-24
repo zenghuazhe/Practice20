@@ -18,7 +18,7 @@ public class Words {
         //MIME类型
         public static final String MIME_DIR_PREFIX = "vnd.android.cursor.dir";
         public static final String MIME_ITEM_PREFIX = "vnd.android.cursor.item";
-        public static final String MINE_ITEM = "vnd.bistu.cs.se.word";
+        public static final String MINE_ITEM = "vnd.example.android.word";
 
         public static final String MINE_TYPE_SINGLE = MIME_ITEM_PREFIX + "/" + MINE_ITEM;
         public static final String MINE_TYPE_MULTIPLE = MIME_DIR_PREFIX + "/" + MINE_ITEM;
